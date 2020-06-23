@@ -7,7 +7,7 @@ yarn install
 ```
 2. Start the server
 ```
-npm run start (http://localhost:8080)
+yarn start (http://localhost:8080)
 ```
 
 ## Configuring techifide/app (front)
